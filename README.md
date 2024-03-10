@@ -1,0 +1,1 @@
+# Document OCR Application (Django)
